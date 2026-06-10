@@ -2,7 +2,7 @@
 
 OpenClaw Launch helps teams choose a model, bind a channel, pay for a plan, track provisioning, and operate OpenClaw instances from a hosted console.
 
-## Before launch checklist
+## Before launch review steps
 
 Decide the channel, owner, model route, support mailbox, fallback plan, and token-handling policy before payment.
 
